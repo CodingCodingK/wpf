@@ -1,0 +1,15 @@
+C:\Users\79982\source\repos\progressbar\progressbar\bin\Debug\progressbar.exe.config
+C:\Users\79982\source\repos\progressbar\progressbar\bin\Debug\progressbar.exe
+C:\Users\79982\source\repos\progressbar\progressbar\bin\Debug\progressbar.pdb
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.csprojAssemblyReference.cache
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\MainWindow.g.cs
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\App.g.cs
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar_MarkupCompile.cache
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar_MarkupCompile.lref
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\MainWindow.baml
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.g.resources
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.Properties.Resources.resources
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.GenerateResource.cache
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.csproj.CoreCompileInputs.cache
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.exe
+C:\Users\79982\source\repos\progressbar\progressbar\obj\Debug\progressbar.pdb

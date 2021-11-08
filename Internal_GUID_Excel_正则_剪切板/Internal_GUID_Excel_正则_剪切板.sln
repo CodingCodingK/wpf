@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Internal_GUID_Excel_正则_剪切板", "Internal_GUID_Excel_正则_剪切板\Internal_GUID_Excel_正则_剪切板.csproj", "{B986E6DC-1144-43FD-A8CD-FDFCE929CBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{7890AB99-59A1-4672-BFD9-CC921B8F4EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B986E6DC-1144-43FD-A8CD-FDFCE929CBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B986E6DC-1144-43FD-A8CD-FDFCE929CBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B986E6DC-1144-43FD-A8CD-FDFCE929CBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B986E6DC-1144-43FD-A8CD-FDFCE929CBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7890AB99-59A1-4672-BFD9-CC921B8F4EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7890AB99-59A1-4672-BFD9-CC921B8F4EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7890AB99-59A1-4672-BFD9-CC921B8F4EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7890AB99-59A1-4672-BFD9-CC921B8F4EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DDF4DB-7F6D-4BBD-841D-4AFD3ADBACA4}
+	EndGlobalSection
+EndGlobal

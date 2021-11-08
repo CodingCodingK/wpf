@@ -1,0 +1,7 @@
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\bin\Debug\反射,序列化.exe.config
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\bin\Debug\反射,序列化.exe
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\bin\Debug\反射,序列化.pdb
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\obj\Debug\反射,序列化.csprojAssemblyReference.cache
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\obj\Debug\反射,序列化.csproj.CoreCompileInputs.cache
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\obj\Debug\反射,序列化.exe
+C:\Users\79982\source\repos\反射,序列化\反射,序列化\obj\Debug\反射,序列化.pdb

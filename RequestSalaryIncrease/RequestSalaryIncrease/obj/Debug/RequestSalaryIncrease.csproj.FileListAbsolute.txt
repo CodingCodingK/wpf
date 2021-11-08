@@ -1,0 +1,7 @@
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\bin\Debug\RequestSalaryIncrease.exe.config
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\bin\Debug\RequestSalaryIncrease.exe
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\bin\Debug\RequestSalaryIncrease.pdb
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\obj\Debug\RequestSalaryIncrease.csprojAssemblyReference.cache
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\obj\Debug\RequestSalaryIncrease.csproj.CoreCompileInputs.cache
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\obj\Debug\RequestSalaryIncrease.exe
+C:\Users\79982\source\repos\RequestSalaryIncrease\RequestSalaryIncrease\obj\Debug\RequestSalaryIncrease.pdb

@@ -1,0 +1,7 @@
+C:\Users\79982\source\repos\线程_同步\线程_同步\bin\Debug\线程_同步.exe.config
+C:\Users\79982\source\repos\线程_同步\线程_同步\bin\Debug\线程_同步.exe
+C:\Users\79982\source\repos\线程_同步\线程_同步\bin\Debug\线程_同步.pdb
+C:\Users\79982\source\repos\线程_同步\线程_同步\obj\Debug\线程_同步.csprojAssemblyReference.cache
+C:\Users\79982\source\repos\线程_同步\线程_同步\obj\Debug\线程_同步.csproj.CoreCompileInputs.cache
+C:\Users\79982\source\repos\线程_同步\线程_同步\obj\Debug\线程_同步.exe
+C:\Users\79982\source\repos\线程_同步\线程_同步\obj\Debug\线程_同步.pdb
